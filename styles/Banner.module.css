@@ -1,0 +1,16 @@
+.backgroundImg {
+    background: url(../Image/back.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+    overflow: hidden;
+
+}
+
+.textSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 580px;
+    color: rgb(10, 10, 137);
+}
