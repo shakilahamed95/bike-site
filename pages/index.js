@@ -2,6 +2,7 @@ import Head from "next/head";
 import Banner from "../Components/Banner/Banner";
 import Carosel from "../Components/Carosel";
 import Email from "../Components/Email";
+import Footer from "../Components/Footer";
 import Header from "../Components/Header";
 
 
@@ -15,6 +16,7 @@ const index = () => {
       <Header></Header>
       <Banner></Banner>
       <Email></Email>
+      <Footer></Footer>
     </>
   );
 };
