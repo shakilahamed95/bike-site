@@ -3,7 +3,7 @@ const Banner = () => {
     return (
         <div className={styles.backgroundImg} >
             <div className={styles.textSection}>
-                <h1>The Perfect Place For Dream Bike</h1>
+                <h1 className={styles.text}>The Perfect Place To Learn More</h1>
             </div>
         </div>
     );

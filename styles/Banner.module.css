@@ -1,5 +1,5 @@
 .backgroundImg {
-    background: url(../Image/back.jpg);
+    background: url(../Image/cover.jpg);
     background-size: cover;
     height: 80vh;
     background-position: center;
@@ -9,8 +9,11 @@
 
 .textSection {
     display: flex;
-    align-items: center;
     justify-content: center;
     height: 580px;
-    color: rgb(10, 10, 137);
+    color: white;
+}
+
+.text {
+    margin-top: 220px;
 }
