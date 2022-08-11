@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "user": "Robin",
+        "text": "This is really great bike.Try it!!! You will definately love it",
+        "ratings": "5 stars",
+        "userImage": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+        "id": 2,
+        "user": "Uday",
+        "text": "My first bike.Still can not forget about it",
+        "ratings": "5 stars",
+        "userImage": "https://cdn.pixabay.com/photo/2014/07/09/10/04/man-388104_640.jpg"
+    },
+    {
+        "id": 3,
+        "user": "Vipul",
+        "text": "What a bike. I am just wating to buy new verson of it.",
+        "ratings": "5 stars",
+        "userImage": "https://observerbd.com/2019/01/25/observerbd.com_1548439212.jpg"
+    },
+    {
+        "id": 4,
+        "user": "Sweet",
+        "text": "I have a lot of sweet memory with this one. Really like it.",
+        "ratings": "4.5 stars",
+        "userImage": "https://ravenleatherz.com/wp-content/uploads/2018/09/Ariyan-Wear-a-Biker-Jacket-from-RAVEN.jpg"
+    },
+    {
+        "id": 5,
+        "user": "Sarafat",
+        "text": "Try this one you will definately love it!!!",
+        "ratings": "5 stars",
+        "userImage": "https://media.npr.org/assets/img/2019/05/10/img_7403-60_wide-14501f1cee4572bb2f61a52bb40b8e6bbe4a2568.jpg?s=1400"
+    },
+    {
+        "id": 6,
+        "user": "Sumon",
+        "text": "One of the best i think. Though i faced a littile problem with it but its ok .. Try it",
+        "ratings": "4 stars",
+        "userImage": "https://www.hohenstein.com.bd/fileadmin/_processed_/a/9/csm_Tushar_Shariful_Islam_6fc772030b.jpg"
+    },
+    {
+        "id": 7,
+        "user": "Tarek",
+        "text": "Try this one !!! You will get the best bike ride experience",
+        "ratings": "4.5 stars",
+        "userImage": "https://i.pinimg.com/736x/26/5d/c9/265dc99bb86fb280b561357ddebd708b.jpg"
+    },
+    {
+        "id": 8,
+        "user": "Humayun",
+        "text": "One of the worst bike i have ever seen.. The engine is  to much week",
+        "ratings": "2 stars",
+        "userImage": "https://swall.teahub.io/photos/small/358-3588018_awesome-smart-boys-in-bangladesh-sitting.jpg"
+    },
+    {
+        "id": 9,
+        "user": "Kader",
+        "text": "My first bike. Still i love it.",
+        "ratings": "5 stars",
+        "userImage": "https://cdn.pixabay.com/photo/2020/04/25/09/02/boy-5089981_960_720.jpg"
+    }
+]

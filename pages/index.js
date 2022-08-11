@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Banner from "../Components/Banner/Banner";
 import Carosel from "../Components/Carosel";
+import Email from "../Components/Email";
 import Header from "../Components/Header";
 
 
@@ -13,6 +14,7 @@ const index = () => {
       </Head>
       <Header></Header>
       <Banner></Banner>
+      <Email></Email>
     </>
   );
 };
