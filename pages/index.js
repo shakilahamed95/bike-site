@@ -9,7 +9,6 @@ import Singlebook from "../Components/Singlebook";
 export const getStaticProps = async () => {
   const res = await fetch("https://secret-bastion-79495.herokuapp.com/banglabook")
   const data = await res.json();
-  console.log(data);
   return {
     props: {
       data: data,
