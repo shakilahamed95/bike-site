@@ -2,12 +2,16 @@ import Header from "../../Components/Header";
 import Image from "next/image";
 import Link from "next/link";
 import Footer from "../../Components/Footer";
+import Head from "next/head";
 const handlenavigate = () => {
 
 }
 const index = () => {
     return (
         <div>
+            <Head>
+                <title>Bolg</title>
+            </Head>
             <Header></Header>
             <h1 className="text-center mt-5 text-primary mb-5">লেখক পরিচিতি</h1>
             <div className="row container mt-3 ms-4 mb-5">

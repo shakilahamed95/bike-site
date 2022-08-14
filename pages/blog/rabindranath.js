@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Image from 'next/image';
 import React from 'react';
 import Footer from '../../Components/Footer';
@@ -6,6 +7,11 @@ import Header from '../../Components/Header';
 const rabindranath = () => {
     return (
         <div>
+            <Head>
+                <title>
+                    Rabindranath Tagore
+                </title>
+            </Head>
             <Header></Header>
             <div className='row mt-4 mb-5'>
                 <div className="col-12 col-sm-12 col-md-6 col-lg-3">
