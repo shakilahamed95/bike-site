@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Image from "next/image";
 import Footer from "../Components/Footer";
 import Header from "../Components/Header";
@@ -33,6 +34,11 @@ export const getStaticProps = async (context) => {
 const bookId = ({ data }) => {
     return (
         <div>
+            <Head>
+                <title>
+                    {data.name}
+                </title>
+            </Head>
             <Header></Header>
             <div>
                 <div className="card mb-5 mt-5 container">
